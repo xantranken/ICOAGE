@@ -8,3 +8,14 @@
 /Users/Jonathan/Desktop/ICOAGE/obj/Debug/netcoreapp2.0/ICOAGE.AssemblyInfo.cs
 /Users/Jonathan/Desktop/ICOAGE/obj/Debug/netcoreapp2.0/ICOAGE.dll
 /Users/Jonathan/Desktop/ICOAGE/obj/Debug/netcoreapp2.0/ICOAGE.pdb
+c:\Users\xJona\ICOAGE\bin\Debug\netcoreapp2.0\ICOAGE.deps.json
+c:\Users\xJona\ICOAGE\bin\Debug\netcoreapp2.0\ICOAGE.runtimeconfig.json
+c:\Users\xJona\ICOAGE\bin\Debug\netcoreapp2.0\ICOAGE.runtimeconfig.dev.json
+c:\Users\xJona\ICOAGE\bin\Debug\netcoreapp2.0\ICOAGE.dll
+c:\Users\xJona\ICOAGE\bin\Debug\netcoreapp2.0\ICOAGE.pdb
+c:\Users\xJona\ICOAGE\obj\Debug\netcoreapp2.0\ICOAGE.csproj.CoreCompileInputs.cache
+c:\Users\xJona\ICOAGE\obj\Debug\netcoreapp2.0\ICOAGE.AssemblyInfoInputs.cache
+c:\Users\xJona\ICOAGE\obj\Debug\netcoreapp2.0\ICOAGE.AssemblyInfo.cs
+c:\Users\xJona\ICOAGE\obj\Debug\netcoreapp2.0\ICOAGE.dll
+c:\Users\xJona\ICOAGE\obj\Debug\netcoreapp2.0\ICOAGE.pdb
+C:\Users\xJona\ICOAGE\obj\Debug\netcoreapp2.0\ICOAGE.csprojResolveAssemblyReference.cache
