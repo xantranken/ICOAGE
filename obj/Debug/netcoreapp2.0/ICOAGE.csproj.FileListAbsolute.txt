@@ -1,0 +1,10 @@
+/Users/Jonathan/Desktop/ICOAGE/bin/Debug/netcoreapp2.0/ICOAGE.deps.json
+/Users/Jonathan/Desktop/ICOAGE/bin/Debug/netcoreapp2.0/ICOAGE.runtimeconfig.json
+/Users/Jonathan/Desktop/ICOAGE/bin/Debug/netcoreapp2.0/ICOAGE.runtimeconfig.dev.json
+/Users/Jonathan/Desktop/ICOAGE/bin/Debug/netcoreapp2.0/ICOAGE.dll
+/Users/Jonathan/Desktop/ICOAGE/bin/Debug/netcoreapp2.0/ICOAGE.pdb
+/Users/Jonathan/Desktop/ICOAGE/obj/Debug/netcoreapp2.0/ICOAGE.csproj.CoreCompileInputs.cache
+/Users/Jonathan/Desktop/ICOAGE/obj/Debug/netcoreapp2.0/ICOAGE.AssemblyInfoInputs.cache
+/Users/Jonathan/Desktop/ICOAGE/obj/Debug/netcoreapp2.0/ICOAGE.AssemblyInfo.cs
+/Users/Jonathan/Desktop/ICOAGE/obj/Debug/netcoreapp2.0/ICOAGE.dll
+/Users/Jonathan/Desktop/ICOAGE/obj/Debug/netcoreapp2.0/ICOAGE.pdb
