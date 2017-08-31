@@ -145,7 +145,7 @@ namespace ICOAGE
                             {
                                 loads[i] = LoadDetails();
                             }
-                            Task.WaitAll(loads);
+                            Task.WaitAny(loads);
 
                             Task[] tasks = new Task[usernames.Count*4];
                             for (int i = 0; i < tasks.Length; i ++)
